@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VukeFN
 - 👀 I’m interested in Coding (Mainly Trying to learn C, C#, HTML, CSS, Javascrip, and Python)
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on projects when I know enough about coding.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me (noting yet)
 
 <!---
